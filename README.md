@@ -30,7 +30,7 @@
     <img width="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
     <img width="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
     <img width="45" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg">&nbsp;&nbsp;
-    <img width="80" height="50" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
+    <img width="50" height="50" src="https://img.icons8.com/color/452/mongodb.png">&nbsp;&nbsp;
 </p>
 
 <!--
