@@ -4,6 +4,10 @@
 
  I am Sanjay Patel  :raising_hand_man: from Bhopal. I am Full Stack Web Developer. I am skilled in Express js , Node.js, MongoDB, React, Javascript, Material-ui, CSS, HTML and Data Structures and Algorithm.
  
+ <p align="center">
+<img alt="readme gif" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="600px">
+</p>
+ 
 # :muscle: How I am different from others?
  #### :white_square_button: A hardworking and quick learner.
  #### :white_square_button: Passionate about my work.
@@ -26,7 +30,7 @@
     <img width="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
     <img width="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
     <img width="45" src="https://www.flaticon.com/svg/static/icons/svg/919/919825.svg">&nbsp;&nbsp;
-    <img width="80" margin="20 0 0 0" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=T7Bcj44-">&nbsp;&nbsp;
+    <img width="80" margin="40 0 0 0" src="https://digital.ai/sites/default/files/pictures/styles/maxwidth_300/public/pt_logos/mongodb.png?itok=T7Bcj44-">&nbsp;&nbsp;
 </p>
 
 <!--
